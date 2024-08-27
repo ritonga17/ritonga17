@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @ritonga17
+- 👋 Hi, I’m @ritonga sevenTEEN
+- 
 - 👀 I’m interested in WebApp and Mobile App
 - 🌱 I’m currently learning reactNAtive
 
