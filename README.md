@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ritonga
 
-- 🌱 I’m currently learning reactNAtive
-
+-  this is my github
 
 <!---
 ritongaID/ritongaID is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
